@@ -13,7 +13,9 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Demo',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        primarySwatch: Colors.blue,
+        fontFamily: "OverpassRegular",
+        primaryColor: Color(0xff3185FC),
+        scaffoldBackgroundColor: Color(0xffFFFAFF),
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
       home: SingIn(),
