@@ -1,6 +1,6 @@
 # todowebappp
 
-A new Flutter application.
+In progress with the video series on Youtube https://www.youtube.com/channel/UCsPdgUIoOBTBI1UmulW1pdw/.
 
 ## Getting Started
 
